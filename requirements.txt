@@ -2,3 +2,4 @@ python-telegram-bot
 apscheduler
 pytz
 python-binance
+python-dotenv
