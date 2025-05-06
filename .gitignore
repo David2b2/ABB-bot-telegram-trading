@@ -1,3 +1,9 @@
+# Fichiers sensibles
 .env
+*.env
+.env*/
+secrets.py
+
+# Fichiers temporaires
 __pycache__/
 *.log
